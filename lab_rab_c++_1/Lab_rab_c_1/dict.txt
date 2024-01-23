@@ -1,0 +1,9 @@
+Star Звезда
+Home Дом
+Father Папа
+Mother Мама
+Cup Чашка
+Lesson Урок
+Mouse Мышь
+Laser Лазер
+Carrot Морковь
